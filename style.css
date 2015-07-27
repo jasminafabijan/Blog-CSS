@@ -113,7 +113,7 @@ body {
 a {
     -webkit-transition: all .2s linear;
     transition: all .2s linear;
-    color: #ff5b24;
+    color: #1ec279;
 }
 a:hover, a:focus {
     text-decoration: none;
@@ -1115,7 +1115,7 @@ blockquote.right {
 }
 .top-bar-search-icon > a:hover {
     color: #fff;
-    background-color: #ff5b24;
+    background-color: #1ec279;
 }
 
 /* Top Navigation */
@@ -1185,7 +1185,7 @@ blockquote.right {
     color: #666;
 }
 .header-style-one .header-search-btn:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 
 /* Header Two */
@@ -1491,8 +1491,8 @@ blockquote.right {
     width: 44px;
     height: 44px;
     text-align: center;
-    color: #ff5b24;
-    border: 2px solid #ff5b24;
+    color: #1ec279;
+    border: 2px solid #1ec279;
     border-radius: 99px;
 }
 .post-info-wrap {
@@ -1512,7 +1512,7 @@ blockquote.right {
     color: #000;
 }
 .post-box .post-title a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 .post-meta {
     font-size: 13px;
@@ -1536,7 +1536,7 @@ blockquote.right {
     color: #999;
 }
 .post-meta a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 
 /* Post Like */
@@ -1581,7 +1581,7 @@ a.liked:focus {
     text-decoration: none;
     text-transform: uppercase;
     color: #fff;
-    background-color: #ff5b24;
+    background-color: #1ec279;
 }
 .read-more a:hover {
     color: #fff;
@@ -2054,7 +2054,7 @@ a.liked:focus {
     color: #222;
 }
 .related-post-title a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 .related-post-meta {
     font-size: 13px;
@@ -2078,7 +2078,7 @@ a.liked:focus {
     color: #999;
 }
 .related-post-meta a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 
 /* 6.10. Single Post Navigation
@@ -2154,7 +2154,7 @@ a.liked:focus {
 }
 .post-navigation a:hover,
 .post-navigation a:hover h3 {
-    color: #ff5b24
+    color: #1ec279
 }
 
 /*-------------------------------------------------------------------------------------------*/
@@ -2223,7 +2223,7 @@ a.liked:focus {
     transition: all .4s ease-in-out;
     border-width: 1px 0;
     border-style: solid;
-    border-color: #ff5b24;
+    border-color: #1ec279;
 }
 .sidebar-widget .widget-title-inner:before {
     left: 0
@@ -2274,14 +2274,14 @@ a.liked:focus {
     color: #333;
 }
 .comment-list .comment-meta .url:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 .comment-list .comment-meta a {
     text-decoration: none;
     color: #999;
 }
 .comment-list .comment-meta a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 .comment-list .comment-meta .edit-link {
     margin-left: 5px
@@ -2321,7 +2321,7 @@ a.liked:focus {
     color: #999;
 }
 #cancel-comment-reply-link:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 .comment-notes {
     margin: 0 0 15px;
@@ -2386,7 +2386,7 @@ span.required {
     color: #606060;
 }
 .comment-navigation a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 
 /*-------------------------------------------------------------------------------------------*/
@@ -2432,7 +2432,7 @@ span.required {
     color: #606060;
 }
 .posts-navigation a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 
 /* Numbered Pagination */
@@ -2482,11 +2482,11 @@ span.required {
 }
 .page-links a:hover {
     color: #fff;
-    background-color: #ff5b24;
+    background-color: #1ec279;
 }
 .page-links > span {
     color: #fff;
-    background-color: #ff5b24;
+    background-color: #1ec279;
 }
 
 /*-------------------------------------------------------------------------------------------*/
@@ -2631,7 +2631,7 @@ span.required {
     color: #606060;
 }
 .widget_archive li a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 .footer-widget.widget_archive li:before {
     color: #ccc
@@ -2685,7 +2685,7 @@ span.required {
     color: #606060
 }
 #wp-calendar tfoot td a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 #wp-calendar tbody td {
     line-height: 2.5em;
@@ -2697,13 +2697,13 @@ span.required {
     border: 1px solid #ddd;
 }
 #wp-calendar tbody td:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 #wp-calendar tbody td a {
     font-weight: bold;
     display: block;
     text-decoration: none;
-    color: #ff5b24;
+    color: #1ec279;
 }
 #wp-calendar tbody td:hover a {
     text-decoration: underline
@@ -2722,7 +2722,7 @@ span.required {
     color: #ddd
 }
 .footer-widget #wp-calendar tfoot td a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 .footer-widget #wp-calendar tbody td {
     border-color: #555
@@ -2750,7 +2750,7 @@ span.required {
     border-bottom: 1px dotted #ddd;
 }
 .widget_categories li a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 .widget_categories .children {
     margin-left: 20px
@@ -2785,7 +2785,7 @@ span.required {
     border-bottom: 1px dotted #ddd;
 }
 .widget_pages li a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 .widget_pages .children {
     margin-left: 15px
@@ -2818,7 +2818,7 @@ span.required {
     color: #606060
 }
 .widget_meta li a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 .footer-widget.widget_meta li:before {
     color: #ccc
@@ -2852,7 +2852,7 @@ span.required {
     color: #606060
 }
 .widget_recent_comments li a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 .footer-widget.widget_recent_comments li:before {
     color: #ccc
@@ -2886,7 +2886,7 @@ span.required {
     color: #606060
 }
 .widget_recent_entries li a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 .footer-widget.widget_recent_entries li:before {
     color: #ccc
@@ -2933,7 +2933,7 @@ span.required {
     white-space: nowrap;
     text-decoration: none;
     color: #fff;
-    background-color: #ff5b24;
+    background-color: #1ec279;
 }
 .tagcloud a:hover {
     color: #fff;
@@ -2975,7 +2975,7 @@ span.required {
     margin-right: 5px
 }
 .widget_nav_menu li a:hover {
-    color: #ff5b24
+    color: #1ec279
 }
 .widget_nav_menu .sub-menu {
     margin-left: 20px
@@ -3489,11 +3489,11 @@ span.required {
     border-color: #fff;
 }
 .btn-primary {
-    background: #ff5b24
+    background: #1ec279
 }
 .btn-primary.btn-outlined {
-    color: #ff5b24;
-    border-color: #ff5b24;
+    color: #1ec279;
+    border-color: #1ec279;
 }
 .btn-success {
     background: #5cb85c
@@ -4288,7 +4288,7 @@ span.required {
     box-shadow: none;
 }
 .form-control:focus {
-    border-color: #ff5b24;
+    border-color: #1ec279;
     outline: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -4331,7 +4331,7 @@ textarea.form-control {
 .scroll-to-top:hover {
     opacity: 1;
     color: #fff;
-    background-color: #ff5b24;
+    background-color: #1ec279;
 }
 .scroll-to-top:focus {
     color: #fff
